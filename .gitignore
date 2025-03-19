@@ -1,0 +1,7 @@
+ml_deployment/
+venv/
+prediction.log
+*.log
+*.joblib
+__pycache__/
+*.pyc

@@ -1,0 +1,5 @@
+joblib
+Flask
+numpy
+prometheus_client
+Flask-SQLAlchemy
